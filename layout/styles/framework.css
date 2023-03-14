@@ -35,9 +35,7 @@ html, body{margin:0; padding:0; font-size:14px; line-height:1.6em;}
 .btn.medium{padding:10px 20px 12px;}
 .btn.small{padding:8px 18px 10px; text-transform:none;}
 
-.clear, .group{display:block;}
-.clear::before, .clear::after, .group::before, .group::after{display:table; content:"";}
-.clear, .clear::after, .group, .group::after{clear:both;}
+
 
 a{outline:none; text-decoration:none;}
 
